@@ -1,0 +1,10 @@
+---
+applications:
+- instances: 1
+  timeout: 180
+  name: appspring
+  buildpack: java_buildpack
+  path: ./target/appspring-1.0-SNAPSHOT.jar
+  memory: 512M
+  domain: mybluemix.net
+  host: app-spring
