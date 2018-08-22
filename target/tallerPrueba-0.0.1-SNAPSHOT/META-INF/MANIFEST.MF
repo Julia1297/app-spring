@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: tallerPrueba
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Julia
+Implementation-Vendor-Id: com.ucbcba.taller
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_161
+Main-Class: ${start-class}
+
